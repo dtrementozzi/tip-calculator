@@ -1,0 +1,53 @@
+body {
+	margin: 20px;
+	text-align: center;
+}
+
+.calculator {
+
+}
+
+.buttons {
+	margin: 5px;
+	height: 50px;
+	width: 65px;
+	font-size: 20px;
+	font-family: Verdana, sans-serif;
+	background-color: rgb(69, 230, 163);
+	border-radius: 10px;
+	border: 2px;
+	color: white;
+	transition-duration: 0.2s;
+}
+
+.buttons:hover {
+	color: rgb(163, 163, 163);
+	background-color: rgb(168, 255, 219);
+}
+
+.tipPercentage {
+	margin-top: 20px;
+	margin-right: 5px;
+	margin-left: 5px;
+	height: 50px;
+	width: 60px;
+	font-size: 20px;
+	font-family: Verdana, sans-serif;
+	background-color: rgb(69, 230, 163);
+	border-radius: 10px;
+	border: 2px;
+	color: white;
+	transition-duration: 0.2s;
+}
+
+.tipPercentage:hover {
+	color: rgb(163, 163, 163);
+	background-color: rgb(168, 255, 219);
+}
+
+.totalAmount {
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
